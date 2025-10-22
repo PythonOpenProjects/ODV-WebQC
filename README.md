@@ -1,6 +1,10 @@
 # ODV-WebQC
 Plot data from ODV and assign a quality flag (streamlit based).
 
+## This repo is an extension of:  
+
+[https://github.com/PythonOpenProjects/WebQC/](https://github.com/PythonOpenProjects/WebQC/)
+
 For any suggestion you can contact me at pythonopenprojects@gmail.com
 
 ## Video example
